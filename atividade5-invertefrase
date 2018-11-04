@@ -1,0 +1,8 @@
+def inverteFrase(frase):
+
+   print(frase[::-1])
+
+
+Frase=input('Digite uma frase: ')
+inverteFrase(Frase)
+
